@@ -32,7 +32,7 @@ Dubbox adds features like RESTful remoting, Kyro/FST serialization, etc to the p
 
 * **修正了dubbo的bug** 包括配置、序列化、管理界面等等的bug。
 
-* ** 升级Spring**：将dubbo中Spring由3.x升级到目前最常用的4.x版本，减少版本冲突带来的麻烦。-2017年
+* **升级Spring**：将dubbo中Spring由3.x升级到目前最常用的4.x版本，减少版本冲突带来的麻烦。-2017年
 
 **注：dubbox和dubbo 2.x是兼容的，没有改变dubbo的任何已有的功能和配置方式（除了升级了spring之类的版本）**
 
